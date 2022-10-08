@@ -1,0 +1,10 @@
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\bin\Debug\netcoreapp3.1\SignalDataApp.Common.deps.json
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\bin\Debug\netcoreapp3.1\SignalDataApp.Common.dll
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\bin\Debug\netcoreapp3.1\SignalDataApp.Common.pdb
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.AssemblyInfoInputs.cache
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.AssemblyInfo.cs
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.dll
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.pdb
+C:\Users\Charitha\source\repos\SignalDataApp\SignalDataApp.Common\obj\Debug\netcoreapp3.1\SignalDataApp.Common.csproj.AssemblyReference.cache
